@@ -18,3 +18,10 @@ Welcome to the Automated Plant Classification and Medicinal Identification Tool!
    - If the leaf is identified as belonging to a plant with known medicinal properties, the tool provides information about the medicinal uses of that plant.
    - A comprehensive database of medicinal plants and their uses is integrated into the tool for accurate identification.
 
+## Dataset
+
+The datasets can be found here-
+https://data.mendeley.com/datasets/nnytj2v3n5/1
+https://data.mendeley.com/datasets/nnytj2v3n5/1
+
+We have created 2 classes for each plant leaf, i.e., diseased and healthy for health status detection.
