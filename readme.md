@@ -20,8 +20,8 @@ Welcome to the Automated Plant Classification and Medicinal Identification Tool!
 
 ## Dataset
 
-The datasets can be found here-
-https://data.mendeley.com/datasets/nnytj2v3n5/1
+The datasets can be found here-<br>
+https://data.mendeley.com/datasets/nnytj2v3n5/1<br>
 https://data.mendeley.com/datasets/nnytj2v3n5/1
 
 We have created 2 classes for each plant leaf, i.e., diseased and healthy for health status detection.
